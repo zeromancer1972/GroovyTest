@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xp:view
+	xmlns:xp="http://www.ibm.com/xsp/core"
+	xmlns:xc="http://www.ibm.com/xsp/custom"
+	xmlns:xe="http://www.ibm.com/xsp/coreex">
+	<xc:_layoutBS3
+		pageTitle="Groovy Test"
+		navbarBottomInverse="true">
+		<xp:this.facets>
+			<xp:div
+				xp:key="facetRight">
+				<xp:div
+					rendererType="bootstrap.Panel"
+					title="Get Groovy">
+					A multi-faceted language for the Java platform
+					<br />
+					<a
+						href="http://www.groovy-lang.org/"
+						target="_blank">http://www.groovy-lang.org/</a>
+				</xp:div>
+			</xp:div>
+			<xp:div
+				xp:key="facetMiddle">
+				<xp:inputTextarea
+					id="inputTextarea1"
+					style="height:300px;width:100%">
+					<xp:this.defaultValue><![CDATA[#{javascript:"return 100 *10 + 123"}]]></xp:this.defaultValue>
+				</xp:inputTextarea>
+				<xp:button
+					value="Run the code"
+					id="button1"
+					styleClass="btn-warning">
+					<xp:eventHandler
+						event="onclick"
+						submit="true"
+						refreshMode="partial"
+						refreshId="out">
+						<xp:this.action><![CDATA[#{javascript:var out = groovy.runCode(getComponent("inputTextarea1").getValue());
+viewScope.put("out", out);}]]></xp:this.action>
+					</xp:eventHandler>
+				</xp:button>
+				<xp:div>
+					<h4>
+						<xp:text
+							id="out"
+							value="#{viewScope.out}">
+						</xp:text>
+					</h4>
+				</xp:div>
+			</xp:div>
+			<xp:div
+				xp:key="facetHelp">
+				A little app to test the Groovy lib
+			</xp:div>
+		</xp:this.facets>
+
+	</xc:_layoutBS3>
+</xp:view>

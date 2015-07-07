@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.3" replicaid="C1257E7A00531B21" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="2be" sequence="4" unid="F7ED690A0D13A937C1257E0700517502">
+<created><datetime>20150313T154943,70+01</datetime></created>
+<modified><datetime dst="true">20150706T170936,16+02</datetime></modified>
+<revised><datetime dst="true">20150706T170936,15+02</datetime></revised>
+<lastaccessed><datetime dst="true">20150706T170936,15+02</datetime></lastaccessed>
+<addedtofile><datetime dst="true">20150706T170829,68+02</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Oliver Busse/O=ulcbs</name><name>CN=Oliver Busse/O=DEV-We4IT</name></updatedby>
+<wassignedby><name>CN=Oliver Busse/O=DEV-We4IT</name></wassignedby>
+<item name="$Flags"><text>34567Cg~[</text></item>
+<item name="$TITLE"><text>org/openntf/bstemplate/renderer/Alert.java</text></item>
+
+
+
+<item name="$DesignerVersion"><text>8.5.3</text></item>
+
+
+<item name="$FileNames" sign="true"><text>org/openntf/bstemplate/renderer/Alert.java</text></item></note>

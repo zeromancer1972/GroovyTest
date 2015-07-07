@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.3" replicaid="C1257E7A00531B21" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="25e" sequence="4" unid="E91ED9BEF138DB20C1257D6000568AA5">
+<created><datetime dst="true">20140927T174515,89+02</datetime></created>
+<modified><datetime dst="true">20150706T170937,02+02</datetime></modified>
+<revised><datetime dst="true">20150706T170937,01+02</datetime></revised>
+<lastaccessed><datetime dst="true">20150706T170937,01+02</datetime></lastaccessed>
+<addedtofile><datetime dst="true">20150706T170829,20+02</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Oliver Busse/O=ulcbs</name><name>CN=Oliver Busse/O=DEV-We4IT</name></updatedby>
+<wassignedby><name>CN=Oliver Busse/O=DEV-We4IT</name></wassignedby>
+<item name="$TITLE"><text>jackson-databind-2.4.2.jar</text></item>
+<item name="$DesignerVersion"><text>8.5.3</text></item>
+<item name="$Flags"><text>34567Cg~,</text></item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item name="$FileNames" sign="true"><text>jackson-databind-2.4.2.jar</text></item></note>

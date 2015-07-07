@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.3" replicaid="C1257E7A00531B21" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="2c2" sequence="16" unid="BA765DE105F84D58C1257E0C004ED4A1">
+<created><datetime>20150318T152102,41+01</datetime></created>
+<modified><datetime dst="true">20150706T170936,18+02</datetime></modified>
+<revised><datetime dst="true">20150706T170936,17+02</datetime></revised>
+<lastaccessed><datetime dst="true">20150706T170936,17+02</datetime></lastaccessed>
+<addedtofile><datetime dst="true">20150706T170829,70+02</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Oliver Busse/O=ulcbs</name><name>CN=Oliver Busse/O=DEV-We4IT</name></updatedby>
+<wassignedby><name>CN=Oliver Busse/O=DEV-We4IT</name></wassignedby>
+<item name="$Flags"><text>34567Cg~[</text></item>
+<item name="$TITLE"><text>org/openntf/bstemplate/renderer/Checkbox.java</text></item>
+
+<item name="$DesignerVersion"><text>8.5.3</text></item>
+
+
+<item name="$FileNames" sign="true"><text>org/openntf/bstemplate/renderer/Checkbox.java</text></item>
+
+</note>

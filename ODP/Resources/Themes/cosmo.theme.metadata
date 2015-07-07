@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.3" replicaid="C1257E7A00531B21" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="212" sequence="12" unid="88ABADA9F73B4F54C1257D0D00025198">
+<created><datetime dst="true">20140706T022519,60+02</datetime></created>
+<modified><datetime dst="true">20150706T170937,63+02</datetime></modified>
+<revised><datetime dst="true">20150706T170937,62+02</datetime></revised>
+<lastaccessed><datetime dst="true">20150706T170937,62+02</datetime></lastaccessed>
+<addedtofile><datetime dst="true">20150706T170828,82+02</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Oliver Busse/O=ulcbs</name><name>CN=Oliver Busse/O=DEV-We4IT</name></updatedby>
+<wassignedby><name>CN=Oliver Busse/O=DEV-We4IT</name></wassignedby>
+<item name="$Flags"><text>34567Cg~`</text></item>
+<item name="$TITLE" sign="true"><text>cosmo.theme</text></item>
+<item name="$DesignerVersion"><text>8.5.3</text></item>
+
+
+<item name="$FileNames" sign="true"><text>cosmo.theme</text></item>
+<item name="$CSSFiles"><text>cosmo/bootstrap.css</text></item></note>

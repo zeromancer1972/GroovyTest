@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.3" replicaid="C1257E7A00531B21" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="29e" sequence="12" unid="88BE0776FD497B10C1257D0D0002AA4E">
+<created><datetime dst="true">20140706T022906,70+02</datetime></created>
+<modified><datetime dst="true">20150706T170937,32+02</datetime></modified>
+<revised><datetime dst="true">20150706T170937,31+02</datetime></revised>
+<lastaccessed><datetime dst="true">20150706T170937,31+02</datetime></lastaccessed>
+<addedtofile><datetime dst="true">20150706T170829,52+02</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Oliver Busse/O=ulcbs</name><name>CN=Oliver Busse/O=DEV-We4IT</name></updatedby>
+<wassignedby><name>CN=Oliver Busse/O=DEV-We4IT</name></wassignedby>
+<item name="$Flags"><text>34567Cg~`</text></item>
+<item name="$TITLE" sign="true"><text>lumen.theme</text></item>
+<item name="$DesignerVersion"><text>8.5.3</text></item>
+
+
+<item name="$FileNames" sign="true"><text>lumen.theme</text></item>
+<item name="$CSSFiles"><text>lumen/bootstrap.css</text></item></note>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.3" replicaid="C1257E7A00531B21" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="2f2" sequence="10" unid="AACD25DCE8C86C80C1257D6C0037F318">
+<created><datetime dst="true">20141009T121107,12+02</datetime></created>
+<modified><datetime dst="true">20150706T170936,42+02</datetime></modified>
+<revised><datetime dst="true">20150706T170936,41+02</datetime></revised>
+<lastaccessed><datetime dst="true">20150706T170936,41+02</datetime></lastaccessed>
+<addedtofile><datetime dst="true">20150706T170829,94+02</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Oliver Busse/O=ulcbs</name><name>CN=Oliver Busse/O=DEV-We4IT</name></updatedby>
+<wassignedby><name>CN=Oliver Busse/O=DEV-We4IT</name></wassignedby>
+<item name="$Flags"><text>34567Cg~`</text></item>
+<item name="$TITLE" sign="true"><text>pastelstream.theme</text></item>
+<item name="$DesignerVersion"><text>8.5.3</text></item>
+
+
+<item name="$FileNames" sign="true"><text>pastelstream.theme</text></item>
+<item name="$CSSFiles"><textlist><text>pastelstream/pastel-stream.css</text><text>pastel-tweaks.css</text></textlist></item></note>
